@@ -1,0 +1,21 @@
+.topo-site {
+    background-color: #fff2eb;
+    height: 590px;
+    border-radius: 0px 0px 150px 0px;
+}
+
+.carousel-item.middle img{
+    border-radius: 0px;
+    height: 395px;
+}
+
+@media screen and (max-width: 799px) {
+    .topo-site {        
+        height: 715px;        
+    }
+
+    .carousel-item.middle img{
+        border-radius: 0px;
+        max-height: 245px;
+    }
+}

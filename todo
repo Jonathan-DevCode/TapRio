@@ -1,0 +1,42 @@
+-- A FAZER (ADMIN)
+- Agendamentos
+  * Histórico de Agendamento
+  * Agendar (vinculando um usuario/corretor)
+  * possibilidade de vincular um cliente
+  * editar/remover agendamento
+  * limpar agendamentos em massa
+- nivel de acesso de usuario (admin, corretor)
+- Dashboard 
+  * Imóveis mais acessados (3 ou 4 imoveis)
+  * Qtd de imóveis cadastrados total
+  * qtd de imoveis p/ corretor
+  * acessos ao site
+  * agendamentos no dia atual
+  * clientes cadastrados
+  * qtd de imóveis p/ cidade
+  * qtd de imóveis p/ bairro
+  * caso tenha mais de 1 UF com imoveis, qtd de imoveis p/ uf
+  * atalhos rápidos
+- Logs 
+  * Gerar logs em algumas ações importantes   
+  * relatório c/ range (de **** até ****)
+  * relatório p/ usuário/corretor
+- Ordenação dos itens na home (apenas quando o front estiver pronto)
+
+
+-- A FAZER (FRONT)
+
+V formulario de busca
+V Lista de categorias de imóveis
+V Slides
+- lista de imóveis em destaque
+- lista de imóveis em temporada
+- lista de imóveis para venda
+- lista de imóveis para alugar
+- lista de imóveis p/ categoria em destaque
+- Busca de imóveis funcional
+- Agendamento de visitas por parte do cliente (apenas se o horario tiver disponivel)
+- Gerenciamento de visitas e agendas pelo painel admin
+- Opção de compartilhar imoveis
+- Imóveis favoritos
+- Opção de compartilhar imoveis favoritos

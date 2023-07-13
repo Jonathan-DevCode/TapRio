@@ -1,0 +1,26 @@
+
+
+.imagens-top {
+    position: absolute;
+    left: -232px;
+    width: 49%;
+    height: 650px;
+
+}
+
+.carousel-item img {
+    border-bottom-right-radius: 20%;
+    border-top-left-radius: 20%;
+    height: 680px;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.secondary-hero__image-stroke {
+    position: absolute;
+    z-index: 100;
+    left: -200px;
+    top: 50px;
+    width: 600px;
+    height: 720px;
+}

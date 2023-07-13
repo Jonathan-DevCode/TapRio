@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /arquivos/
+Disallow: /arquivos
+
+Disallow: /planilhas/
+Disallow: /planilhas

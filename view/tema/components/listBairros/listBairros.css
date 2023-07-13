@@ -1,0 +1,42 @@
+.list-bairros .list-group-item {
+  border: none;
+  padding: 10px;
+}
+
+.list-group-item a {
+  color: #6e0ad6;
+  
+  font-weight: 700;
+}
+
+.condominio-circle {
+  text-align: center;
+  display: flex !important;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  gap: 20px;
+  align-content: center;
+
+  align-items: center;
+}
+
+.condominio-circle a{
+
+  text-decoration: none!important;
+  color: #6e0ad6!important;
+}
+.condominio-circle img:hover{
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.09);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.09);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.09);
+transition: all 0.4s ease-in;
+
+}
+
+.condominio-circle img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 20px;
+  border-radius: 1000px;
+}

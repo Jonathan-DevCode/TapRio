@@ -1,0 +1,64 @@
+.list-imoveis h3 {
+    color: #444 !important;
+}
+
+.col-price {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    justify-content: space-between;
+
+    align-items: center;
+    gap: 89px;
+    font-family: Roboto, Arial, Helvetica, sans-serif !important;
+}
+
+.card {
+    margin: 10px 0px;
+}
+
+.img-imovel-list {
+    width: 100%;
+    object-fit: cover;
+
+}
+
+h4 {
+    font-weight: 700;
+    font-family: Roboto, Arial, Helvetica, sans-serif !important;
+}
+
+.new-l-radio-group {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.clear-filter{
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.slick-prev.card-imoveis,.slick-next.card-imoveis{
+    width: 14px!important;
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    top: 91px;
+
+}
+
+.slick-next.card-imoveis{
+    right: 575px!important;
+}
+
+.slick-prev.card-imoveis{
+    left: 15px!important;
+}
